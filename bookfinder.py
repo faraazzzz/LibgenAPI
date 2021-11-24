@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup #used for web scraping
 import random
 
 from requests.api import head
